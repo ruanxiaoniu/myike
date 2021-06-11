@@ -1,3 +1,9 @@
+<!--
+ * @Author: RYL
+ * @Description:   
+ * @Date: 2021-06-08 10:45:42
+ * @LastEditTime: 2021-06-11 11:10:16
+-->
 <template>
   <div id="app">
     <router-view></router-view>
@@ -12,12 +18,4 @@ export default {
 </script>
 
 <style>
-#app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-  margin-top: 60px;
-}
 </style>
